@@ -12,7 +12,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
     <td width="50%">
       <p align="center">
         <a href="https://github.com/tamanna-hash">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=blux" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=tokyonight&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Streak Stats" />
         </a>
       </p>
     </td>
