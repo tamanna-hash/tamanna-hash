@@ -26,6 +26,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ## 📫 Reach Me Out
 <p align="center"> <a href="https://www.linkedin.com/in/tamanna-sultana-hash/"> <img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:tamannaemails@gmail.com"> <img height="65" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/> </a> </p>
-⚡ Fun Fact
+##⚡ Fun Fact
 
 Even though I spend most of my day coding in front of a screen, I still make time for skating to stay active.
