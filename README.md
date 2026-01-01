@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/git-cover-1.PNG?raw=true" height="300px" width="600px"> </p>
+<p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitbg.png?raw=true" height="300px" width="600px"> </p>
 
 ## Full Stack Web Developer (MERN)
 
