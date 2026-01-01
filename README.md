@@ -18,8 +18,9 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 ## :computer: Technologies that I know
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> </p>
 
-## GitHub Stats
+## Current Stats
 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark" /> </p>
 💻 Language Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=nightowl" /> </p>
