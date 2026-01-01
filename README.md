@@ -1,4 +1,4 @@
-<img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitpic.png?raw=true" height="500px" width="600px" >
+<img src="[https://github.com/tamanna-hash/tamanna-hash/blob/main/gitpic.png?raw=true](https://github.com/tamanna-hash/tamanna-hash/blob/main/gitcover.png?raw=true)" height="500px" width="600px" >
 
 ## :computer: Technologies that I know
 <p align="center">
