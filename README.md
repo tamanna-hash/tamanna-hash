@@ -1,12 +1,17 @@
 <p align="center">
- <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitcover.png?raw=true" height="400px" width="600px" >
+ <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitcover2.png?raw=true" height="400px" width="600px" >
 </p>
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tamanna-hash&theme=react)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=tamanna-hash&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tamanna-hash&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## :computer: Technologies that I know
 <p align="center">
