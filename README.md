@@ -52,15 +52,15 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ## 🔍 Current Activities
 
-# 🔭 Working on: Modern web applications
+### 🔭 Working on: Modern web applications
 
-# 🌱 Exploring: Next.js & advanced technical skills
+### 🌱 Exploring: Next.js & advanced technical skills
 
-# 👯 Open to: Open-source collaboration
+### 👯 Open to: Open-source collaboration
 
-# 🤔 Focused on: Writing clean, scalable code
+### 🤔 Focused on: Writing clean, scalable code
 
-# ⚡ Fun fact: Coding all day doesn’t stop me from skating to stay active
+### ⚡ Fun fact: Coding all day doesn’t stop me from skating to stay active
 
 
 
