@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/git-cover-1.PNG?raw=true" height="400px" width="600px"> </p>
 
-## Tamanna Sultana
-Full Stack Web Developer (MERN)
+## Full Stack Web Developer (MERN)
 
 I’m a passionate web developer focused on building modern, user-friendly web applications.
 I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
@@ -21,7 +20,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 <table width="100%" align="center">
   <tr>
     <td width="100%">
-      <h3 align="center"><strong>ʟᴀɴɢᴜᴀɢᴇ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/tamanna-hash">
           <img
@@ -48,7 +46,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/tamanna-hash">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
