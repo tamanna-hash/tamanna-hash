@@ -19,7 +19,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
     <td width="50%">
       <p align="center">
         <a href="https://github.com/tamanna-hash">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=blux" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=blux&background=00000000&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="GitHub Stats" />
         </a>
       </p>
     </td>
