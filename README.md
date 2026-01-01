@@ -40,7 +40,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
         <a href="https://github.com/tamanna-hash">
           <img
             align="center"
-            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&count_private=true&theme=tokyonight&bg_color=0,008080,008080&title_color=c56a90&text_color=ffffff&hide_border=false"
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&count_private=true&theme=tokyonight&bg_color=0,00637C,00637C&title_color=FFFFFF&text_color=ffffff&hide_border=false"
             alt="Top Languages"
           />
         </a>
