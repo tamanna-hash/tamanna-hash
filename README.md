@@ -5,18 +5,6 @@
 I’m a passionate web developer focused on building modern, user-friendly web applications.
 I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
 
-## 🔍 Current Activities
-
-🔭 Working on: Modern web applications
-
-🌱 Exploring: Next.js & advanced technical skills
-
-👯 Open to: Open-source collaboration
-
-🤔 Focused on: Writing clean, scalable code
-
-⚡ Fun fact: Coding all day doesn’t stop me from skating to stay active
-
 ## :chart_with_upwards_trend: Current Stats
 
 <table width="100%">
@@ -61,6 +49,18 @@ I enjoy learning new technologies, solving real-world problems, and continuously
   </tr>
 </table>
 </p>
+
+## 🔍 Current Activities
+
+# 🔭 Working on: Modern web applications
+
+# 🌱 Exploring: Next.js & advanced technical skills
+
+# 👯 Open to: Open-source collaboration
+
+# 🤔 Focused on: Writing clean, scalable code
+
+# ⚡ Fun fact: Coding all day doesn’t stop me from skating to stay active
 
 
 
