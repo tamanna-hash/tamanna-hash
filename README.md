@@ -61,5 +61,5 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 <!-- <p align="center"> <a href="https://www.linkedin.com/in/tamanna-sultana-hash/"> <img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:tamannaemails@gmail.com"> <img height="65" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/> </a> </p> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamanna%20Sultana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-sultana-hash/)
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannaemails@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tamannaemails@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannaemails@gmail.com)
 
