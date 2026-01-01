@@ -4,10 +4,10 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamanna-hash&show_icons=true&theme=tokyonight&hide_border=true" />
-</p> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamanna-hash&show_icons=true&count_private=true&theme=dark
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark />
+</p> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tamanna-hash&theme=tokyonight&hide_border=true" />
