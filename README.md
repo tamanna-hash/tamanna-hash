@@ -4,9 +4,10 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamanna-hash&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamanna-hash&show_icons=true&count_private=true&theme=dark
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tamanna-hash&theme=tokyonight&hide_border=true" />
@@ -20,10 +21,12 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" /></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /></a>
     <a href="https://express.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="express" /></a>
+ <br/>
     <a href="https://mongodb.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="mongodb" /></a>
  <a href="https://nextjs.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="nextjs" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind" /></a>
+ <br/>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
        width="50"
