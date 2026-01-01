@@ -20,7 +20,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ## Current Stats
 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tamanna-hash)](https://git.io/streak-stats)
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark" /> </p>
 💻 Language Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=nightowl" /> </p>
