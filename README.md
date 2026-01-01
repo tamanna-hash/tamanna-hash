@@ -1,6 +1,12 @@
 <p align="center">
  <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitcover.png?raw=true" height="400px" width="600px" >
 </p>
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tamanna-hash&theme=react)](https://git.io/streak-stats)
+</p>
 
 ## :computer: Technologies that I know
 <p align="center">
