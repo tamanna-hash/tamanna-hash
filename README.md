@@ -5,8 +5,9 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark)](https://git.io/streak-stats)
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tamanna-hash&theme=dark />
+</p> 
 
 ## :mailbox: Reach me out
 <p align="center">
