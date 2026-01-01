@@ -1,11 +1,12 @@
-<p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitcover2.png?raw=true" height="400px" width="600px"> </p>
- Tamanna Sultana
+<p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/git-cover-1.PNG?raw=true" height="400px" width="600px"> </p>
+
+## Tamanna Sultana
 Full Stack Web Developer (MERN)
 
 I’m a passionate web developer focused on building modern, user-friendly web applications.
 I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
 
-🔍 Current Activities
+## 🔍 Current Activities
 
 🌱 Exploring Next.js
 
@@ -40,25 +41,26 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Thesachindey">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/tamanna-hash">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=tokyonight&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</strong></h3>
+      <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Thesachindey">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=tokyonight&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/tamanna-hash">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 ## 📫 Reach Me Out
 <p align="center"> <a href="https://www.linkedin.com/in/tamanna-sultana-hash/"> <img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:tamannaemails@gmail.com"> <img height="65" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/> </a> </p>
-##⚡ Fun Fact
+
+## ⚡ Fun Fact
 
 Even though I spend most of my day coding in front of a screen, I still make time for skating to stay active.
