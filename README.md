@@ -60,7 +60,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ### 🤔 Focused on: Writing clean, scalable code
 
-### ⚡ Fun fact: Coding all day doesn’t stop me from skating to stay active
+### ⚡ Fun fact: Coding all day doesn’t stop me from skating and traveling to stay active
 
 
 
