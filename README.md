@@ -63,4 +63,5 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 ### ⚡ Fun fact: Coding all day doesn’t stop me from skating and traveling to stay active
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=tamanna-hash)
 
