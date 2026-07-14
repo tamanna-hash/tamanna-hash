@@ -55,7 +55,7 @@ Long-term, I'm working toward building products with real impact, contributing m
 - 📊 **Prisma Studio** — Visual editor for Prisma-managed data
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=tokyonight&count_private=true"
     alt="Top Languages"
   />
 </p>
