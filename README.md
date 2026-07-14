@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitbg.png?raw=true" height="300px" width="600px"> </p>
+<!-- <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitbg.png?raw=true" height="300px" width="600px"> -->
+<p align="center"> <img width="1500" height="500" alt="gitbg-fullstack" src="https://github.com/user-attachments/assets/585b115c-9029-46c7-a0bb-4bc9e9fa71bc" />
+ </p>
 
 ## Full Stack Web Developer (MERN)
 
@@ -27,7 +29,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 </table>
 
 ## 📫 Reach Me Out
-<!-- <p align="center"> <a href="https://www.linkedin.com/in/tamanna-sultana-hash/"> <img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:tamannaemails@gmail.com"> <img height="65" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/> </a> </p> -->
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-sultana-hash/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannaemails@gmail.com)
 <!-- <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> -->
