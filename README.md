@@ -53,7 +53,7 @@ Long-term, I'm working toward building products with real impact, contributing m
 - 🌐 **NeonDB** — Serverless Postgres database
 - 🐝 **Beekeeper Studio** — SQL client for database management
 - 📊 **Prisma Studio** — Visual editor for Prisma-managed data
-  
+  </p>
 <table width="100%" align="center">
   <tr>
     <td width="100%">
@@ -68,7 +68,7 @@ Long-term, I'm working toward building products with real impact, contributing m
     </td>
   </tr>
 </table>
-</p>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <table width="100%">
