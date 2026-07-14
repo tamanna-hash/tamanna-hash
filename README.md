@@ -106,7 +106,7 @@ Long-term, I'm working toward building products with real impact, contributing m
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamanna-hash)
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -118,4 +118,7 @@ Long-term, I'm working toward building products with real impact, contributing m
       alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/tamanna-hash/tamanna-hash/output/github-contribution-grid-snake.svg">
   </picture>
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamanna-hash&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
