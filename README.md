@@ -18,26 +18,6 @@ I treat every project as a chance to sharpen my problem-solving and deepen my un
 ### 🎯 Where I'm Headed
 Long-term, I'm working toward building products with real impact, contributing meaningfully to open source, and growing into a backend-focused engineer whose code other developers trust.
 
-## :chart_with_upwards_trend: Current Stats
-
-<table width="100%">
-<tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/tamanna-hash">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=tokyonight" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/tamanna-hash">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 📫 Reach Me Out
 
@@ -90,6 +70,26 @@ Long-term, I'm working toward building products with real impact, contributing m
   </tr>
 </table>
 </p>
+## :chart_with_upwards_trend: Current Stats
+
+<table width="100%">
+<tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/tamanna-hash">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=tamanna-hash&theme=tokyonight" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/tamanna-hash">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=tamanna-hash&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🔍 Current Activities
 
@@ -106,5 +106,5 @@ Long-term, I'm working toward building products with real impact, contributing m
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamanna-hash)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tamanna-hash/tamanna-hash/output/snake.svg" alt="Snake animation" />
 </p>
