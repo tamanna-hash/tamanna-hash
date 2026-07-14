@@ -110,10 +110,9 @@ Long-term, I'm working toward building products with real impact, contributing m
       src="https://raw.githubusercontent.com/tamanna-hash/tamanna-hash/output/github-contribution-grid-snake.svg">
   </picture>
 </p> -->
-<!--contribution graph>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamanna-hash&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p> -->
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamanna-hash&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p> 
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/tamanna-hash/tamanna-hash/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+</p> -->
