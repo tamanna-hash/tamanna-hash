@@ -1,11 +1,22 @@
 <!-- <img src="https://github.com/tamanna-hash/tamanna-hash/blob/main/gitbg.png?raw=true" height="300px" width="600px"> -->
-<p align="center"> <img width="1500" height="500" alt="gitbg-fullstack" src="https://github.com/user-attachments/assets/585b115c-9029-46c7-a0bb-4bc9e9fa71bc" />
+<p align="center"><img width="3000" height="1000" alt="gitbg-premium" src="https://github.com/user-attachments/assets/baa2078e-6306-483a-a38d-7c7c040817ee" />
  </p>
 
-## Full Stack Web Developer (MERN)
+## 👋 About Me
 
-I’m a passionate web developer focused on building modern, user-friendly web applications.
-I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
+I'm **Tamanna**, a Full-Stack Developer based in Bangladesh, focused on building web applications that are secure, scalable, and built to last. My work centers on clean architecture, efficient APIs, and thoughtful database design — I care as much about *how* something is built as whether it works.
+
+### 🚀 What I'm Building Right Now
+- Full-stack web applications using modern, production-grade tools
+- RESTful APIs with **Node.js**, **Express**, and **TypeScript**
+- Data layers powered by **PostgreSQL**, **Prisma ORM**, and **MongoDB**
+- A growing interest in **Python**, applied AI, and backend systems design
+
+### 🌱 How I Work
+I treat every project as a chance to sharpen my problem-solving and deepen my understanding of the systems I build. I'm drawn to backend engineering in particular — the logic, the trade-offs, the discipline of getting the fundamentals right.
+
+### 🎯 Where I'm Headed
+Long-term, I'm working toward building products with real impact, contributing meaningfully to open source, and growing into a backend-focused engineer whose code other developers trust.
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -94,3 +105,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamanna-hash)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
