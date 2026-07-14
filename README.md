@@ -22,7 +22,7 @@ Long-term, I'm working toward building products with real impact, contributing m
 ## 📫 Reach Me Out
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-sultana-hash/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannaemails@gmail.com)
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> -->
+  
 # 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -53,21 +53,13 @@ Long-term, I'm working toward building products with real impact, contributing m
 - 🌐 **NeonDB** — Serverless Postgres database
 - 🐝 **Beekeeper Studio** — SQL client for database management
 - 📊 **Prisma Studio** — Visual editor for Prisma-managed data
-  </p>
-<table width="100%" align="center">
-  <tr>
-    <td width="100%">
-      <p align="center">
-        <a href="https://github.com/tamanna-hash">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&border_color=7C3AED&hide_border=false"
-            alt="Top Languages"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
