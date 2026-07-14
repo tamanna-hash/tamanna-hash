@@ -60,8 +60,7 @@ Long-term, I'm working toward building products with real impact, contributing m
       <p align="center">
         <a href="https://github.com/tamanna-hash">
           <img
-            align="center"
-            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&count_private=true&theme=tokyonight&bg_color=0,00637C,00637C&title_color=FFFFFF&text_color=ffffff&hide_border=false"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-hash&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&border_color=7C3AED&hide_border=false"
             alt="Top Languages"
           />
         </a>
