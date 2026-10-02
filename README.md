@@ -47,7 +47,7 @@ Long-term, I'm working toward building products with real impact, contributing m
 
 ### ☁️ Cloud, Hosting & Database Services
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,railway" />
 </p>
 
 - 🌐 **NeonDB** — Serverless Postgres database
